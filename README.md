@@ -5,6 +5,7 @@
 <img width="523" height="452" alt="Screenshot 2026-04-18 142852" src="https://github.com/user-attachments/assets/63f77e8e-81c5-48f2-9136-220d1708c886" />
 <img width="515" height="446" alt="Screenshot 2026-04-18 142944" src="https://github.com/user-attachments/assets/821cb432-97ee-49c5-84f0-9010b1c628f1" />
 
+
 Brain Tumor Detection AI
 
 A powerful Flask-based web application that detects brain tumors from MRI and CT scan images using deep learning models. This system provides fast, accurate predictions along with detailed reports, making it useful for educational, research, and prototype medical applications.
